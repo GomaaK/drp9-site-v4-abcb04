@@ -247,3 +247,6 @@ main:focus{outline:none}
 .eco-logo{height:58px;width:200px;margin-bottom:26px}
 .eco-card small{margin-top:0}
 .eco-card p{margin-top:12px}
+
+/* small orange text: a touch lighter so it passes AA contrast */
+.fcard .role{color:#F0653B}
